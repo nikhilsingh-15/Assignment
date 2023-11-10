@@ -1,0 +1,501 @@
+@media screen and  (min-width: 1024px) and (max-width: 1028px){
+    .navbar-menu > ul > li > a {
+        font-size: 0.9rem !important;
+        padding: 1.5rem 0.7rem ;
+    }
+    .logo-home{
+        width: 22% !important;
+    }
+    .page-title-text blockquote, .partner_tab_menu p, .typessavingsul .saving_acbox h3, .feature_wrap li h3, .current_acfeature .feature_wrap li h3 span, .fixeddp_feature .feature_wrap li h3, .loan_detailsnew .feature_wrap li h3, .getstrd_tab .nav-tabs .nav-item p, .features_account ul li h3, .interest_tab_content h3, .custmadd_box li .head_office h3, .custemail_box h3, .dabitcard_tab.media_center_nav .nav-tabs p, .regulatory_section .download_tab_content .pdf_content .para_heading {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+    .font_60 {
+        font-size: 2rem;
+        line-height: 2.2rem;
+    }
+    .count_sec li{
+        padding: 0.6rem 0;
+    }
+    .count_sec li strong {
+        font-size: 3.2rem;
+    }
+    .count_sec p{
+        margin-bottom: 0;
+    }
+    .vision_text {
+        text-align: center;
+        padding: 0rem 0 0 4.5rem;
+    }
+    .vision_text h2{
+        margin-bottom: 1.2rem;
+    }
+    .font_30{
+        font-size: 1.2rem;
+        line-height: 1.4rem;
+    }
+    .vision_text img {
+        width: 6rem;
+    }
+    .social{
+        height: 98% !important;
+        
+    }
+}
+@media screen and  (min-width: 768px) and (max-width: 1023px){
+    body{
+        font-size: 42%;
+    }
+    .header, .header.inner-header {
+        padding: 1rem 0;
+    }
+    .lost,.login_btn,.mega_open,.toolfree_btn{
+        display: none !important;
+    }
+    .navbar-menu .header-search{
+        border-left: none;
+    }
+    .page-title {
+        text-align: center;
+        padding-top: 4.8rem;
+    }
+    .page_title h1 {
+        margin-bottom: 1rem;
+    }
+    h1{
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    
+    .page-title-text{
+        padding: 0 10%;
+        text-align: center;
+    }
+    .page-title-text blockquote, .page_title_text blockquote, .partner_tab_menu p, .typessavingsul .saving_acbox h3 {
+        font-size: 1.3rem;
+        line-height: 1.8rem;
+        color: #333333;
+    }
+    .our_mission_sec  {
+        position: relative;
+    }
+    .award_sec{
+        padding-bottom: 0;
+    }
+    .value_box{
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    .box-1{
+        padding-left:3rem;
+        padding-right: 3rem;
+    }
+    .our_mission_detail.row {
+        background: #000;
+        padding: 2rem 0.7rem;
+        text-align: center;
+        border-radius: 1.5rem;
+        margin: 2rem 0 0;
+    }
+    h2, .font_60{
+    font-size: 1.6rem;
+    line-height: 2.6rem
+    }
+    ul{
+    font-size: 1rem;
+    line-height: 2rem;
+    }
+    .count_sec li {
+        padding: 1rem;
+        background: #ffffff12;
+        justify-content: center;
+        margin-top: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    .count_sec li strong {
+        font-size: 3.3rem;
+    }
+    .count_sec p {
+        font-size: 1.3rem;
+        line-height: 1.8rem;
+        margin-bottom: 0;
+    }
+    .banner-1{
+        position: static;
+        padding-top: 300px !important;
+    }
+    .award-1{
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+    .vision_text {
+        padding: 2rem 1rem 1rem;
+    }
+    .vision_text h2{
+        margin-bottom: 1rem;
+    }
+    .vision_text p{
+        font-size: 1.1rem;
+    }
+    .board_sec{
+        padding-left: 4rem;
+        padding-right: 4rem;
+        
+    }
+    .members_box img {
+        height: 13rem;
+        width: 13rem;
+        
+    }
+    .members_box{
+        padding-left: 3.5rem;
+    }
+    .container_1366 {
+        padding: 0 5%;
+        max-width: 95rem;
+        margin: 0 auto;
+    }
+    .Purpose_text{
+        padding-top: 2rem;
+    }
+    .copyright {
+        padding: 0 0 1.5rem;
+        flex-direction: column;
+        font-size: 2.1rem;
+    }
+    .copyrigth_wrap .copyright img {
+        width: 4rem;
+        margin-bottom: 1.5rem;
+    }
+    .copyrigth_wrap .follow-us {
+        justify-content: center;
+        margin-top: 0;
+    }
+    .dos_dont{
+        display: none;
+    }
+    .mobile-bottom-menu {
+       display: block;
+        z-index: 9999;
+        position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
+    .mobile-bottom-menu > ul {
+        align-items: flex-end;
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        margin: 0;
+        z-index: 999999;
+        position: relative;
+        background: #004771;
+    }
+    .mobile-bottom-menu > ul > li {
+        text-align: center;
+        transition: 0.3s;
+    }
+    .mobile-bottom-menu > ul > li a {
+        padding: 0.7rem 2rem;
+        display: block;
+    }
+    .mobile-bottom-menu ul figure {
+        width: 1.5rem;
+        margin: auto;
+    }
+    .mobile-bottom-menu ul p {
+        font-size: 0.9rem;
+        color: #fff;
+        padding: 0;
+        line-height: 3rem;
+        font-weight: 500;
+        
+        margin-bottom: 0;
+    }
+    .mobile-bottom-menu ul figure img {
+        filter: invert(1);
+    }
+    .menu-ul-ftr li a{
+        font-size: 0.8rem;
+        line-height: 1.2rem;
+    }
+    footer a span{
+        font-size: 1rem;
+        margin-bottom: 0;
+    }
+    .logo_text {
+        padding-left: 5rem;
+        padding-right: 5rem;
+        
+        text-align: center;
+        margin: auto;
+    }
+    .logo_text h2{
+        margin-bottom: 0.7rem;
+    }
+    .brand_text h2{
+        margin-bottom: 0.7rem;
+    }
+    .brand_text{
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .our_brand_sec {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .lost,.login_btn,.mega_open,.toolfree_btn{
+        display: none !important;
+    }
+    .navbar-menu .header-search{
+        border-left: none;
+    }
+    .page-title {
+        text-align: center;
+        padding-top: 2rem;
+        padding-bottom: 0;
+    }
+    .page-title h1 {
+        margin-bottom: 0.7rem;
+        margin-bottom: 0;
+        font-size: 1.7rem;
+    }
+    .page-title-text{
+        padding: 0 7%;
+        text-align: center;
+    }
+    .page-title-text blockquote, .partner_tab_menu p {
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+        margin-bottom: 1.5rem;
+    }
+    .page-title-text p{
+        font-size: 1rem;
+    }
+    .Purpose_text{
+        padding-left: 0;
+    }
+    .our_mission_sec  {
+        position: relative;
+    }
+    .our_mission_detail.row {
+        background: #000;
+        padding: 2rem 0.7rem;
+        text-align: center;
+        border-radius: 0.7rem;
+        margin: 2rem 0 0;
+    }
+    h2, .font_60{
+    font-size: 1.2rem;
+    line-height: 2.6rem;
+    margin-bottom: 0;
+    }
+    ul{
+    font-size: 1rem;
+    line-height: 2rem;
+    }
+    .count_sec{
+        padding-left: 0;
+    }
+    .count_sec li {
+        padding: 1.2rem;
+        padding-bottom: 0;
+        background: #ffffff12;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .count_sec li strong {
+        font-size: 3rem;
+        margin-bottom: 0.6rem
+    }
+    .count_sec p {
+        font-size: 1rem;
+        line-height: 1.8rem;
+        margin-bottom: 0;
+    }
+    .banner-1{
+        position: static;
+        padding-top: 130px !important;
+    }
+    .vision_text {
+        padding: 2rem 0rem 0rem;
+    }
+    .vision_text h2{
+        margin-bottom: 1rem;
+    }
+    .vision_text p{
+        font-size: 1rem;
+        
+    }
+    .Purpose_text h2{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        font-size:1.5rem;
+    }
+    .commn_li li img{
+        margin-right: 0;
+    }
+    .our_values_box{
+        padding: 1.5rem 1.5rem;
+    }
+    .our_values_box p{
+        font-size: 1rem;
+    }
+   
+    .board_sec{
+        padding-top: 2rem !important;
+        padding-bottom: 1.5rem !important;
+    }
+    .board_sec_slider{
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .slider-btn1 {
+        border: 1px solid rgb(181, 179, 179);
+        background-color: white;
+        width: 65px;
+        height: 25px;
+        border-radius: 25px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+    }
+    .slider-btn1 button i{
+        font-size: 19px;
+    }
+    .slider-btn2 {
+        display: flex;
+        align-items: center;
+        border: 1px solid rgb(181, 179, 179);
+        background-color: white;
+        width: 55px;
+        height: 25px;
+        border-radius: 25px;
+        overflow: hidden;
+        margin-bottom: 0px !important;
+
+    }
+
+   
+    .members_box{
+        padding-left: 3.5rem;
+    }
+    .partners_box{
+        padding-bottom: 2rem;
+    }
+    .Purpose_sec{
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .our_brand_sec{
+        text-align: center;
+    }
+    .our_values_sec{
+        padding: 1rem 1.2rem;
+       
+    }
+    .brand_text p {
+        color: #fff;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+    }
+    .our_logo{
+        text-align: center;
+    }
+    .logo_text{
+        padding-top: 2rem;
+        padding-right: 1rem;
+    }
+    .logo_text p{
+        font-size: 1rem;
+        margin-bottom:0.6rem;
+    }
+    .logo_text:last-child p {
+        text-align: center;
+    }
+    .award_sec{
+        padding-top: 3rem;
+        padding-bottom: 0;
+    }
+    .partner_tab_menu button{
+        font-size: 0.9rem;
+        padding: 0.3rem;
+        font-weight: 600;
+    }
+    .partners_sec{
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .menu-ul-ftr li a{
+        font-size: 0.6rem;
+        line-height: 0.8rem;
+        
+    }
+    footer a span{
+        font-size: 0.7rem;
+        margin-bottom: 0;
+    }
+    .copyright {
+        padding: 0 0 1.5rem;
+        flex-direction: column;
+        font-size: 2.1rem;
+    }
+    .copyrigth_wrap .copyright img {
+        width: 4rem;
+        margin-bottom: 1.5rem;
+    }
+    .copyrigth_wrap .follow-us {
+        justify-content: center;
+        margin-top: 0;
+    }
+    .dos_dont{
+        display: none;
+    }
+    .mobile-bottom-menu {
+        display: block;
+         z-index: 9999;
+         position: fixed;
+     bottom: 0;
+     width: 100%;
+     }
+     .mobile-bottom-menu > ul {
+         align-items: flex-end;
+         display: flex;
+         justify-content: space-between;
+         list-style: none;
+         margin: 0;
+         z-index: 999999;
+         position: relative;
+         background: #004771;
+     }
+     .mobile-bottom-menu > ul > li {
+         text-align: center;
+         transition: 0.3s;
+     }
+     .mobile-bottom-menu > ul > li a {
+         padding: 0.5rem 1.3rem;
+         display: block;
+     }
+     .mobile-bottom-menu ul figure {
+         width: 1.2rem;
+         margin: auto;
+     }
+     .mobile-bottom-menu ul p {
+         font-size: 0.5rem;
+         color: #fff;
+         padding: 0;
+         line-height: 1rem;
+         font-weight: 500;
+         
+         margin-bottom: 0;
+     }
+     .mobile-bottom-menu ul figure img {
+         filter: invert(1);
+     }
+}
+
